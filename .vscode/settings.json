@@ -1,14 +1,4 @@
 {
-  "C_Cpp.intelliSenseEngine": "default",
-  "files.associations": {
-    "esp_flash.h": "c",
-    "sdkconfig.h": "c"
-  },
-  "idf.adapterTargetName": "esp32s3",
-  "idf.openOcdConfigs": [
-    "interface/esp_usb_jtag.cfg",
-    "target/esp32s3.cfg"
-  ],
-  "idf.port": "/dev/cu.usbmodem11101",
-  "idf.flashType": "UART"
+    "idf.adapterTargetName": "esp32s3",
+    "idf.port": "/dev/cu.usbmodem11101"
 }
